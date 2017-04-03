@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthdayScrapBook</string>
+    <string name="birthday_title_hint">Enter a title for the Birthday.</string>
+    <string name="birthday_title_label">Title</string>
+    <string name="birthday_details_label">Details</string>
+    <string name="birthday_solved_label">Solved</string>
+    <string name="date_picker_title">Birthday:</string>
+</resources>
